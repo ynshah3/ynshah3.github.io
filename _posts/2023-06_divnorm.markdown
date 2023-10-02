@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Convolutional Neural Networks With Divisive Normalization Across Similar Features"
+date: 2023
+image: /images/divnorm.png
+authors: <strong>Yash Shah</strong>, Xuzhe Zhi, Keyu Long, Garrison Cottrell
+categories: research
+---
+In this paper, we explore using divisive normalization across neuronal sub-populations computing similar features, with and without an associated rectifier like ReLU, to enforce local competition. We create these neuronal sub-populations that compute similar features by sampling the weights for NxN convolutional filters from a multivariate N^2–dimensional gaussian distribution. Results are analyzed based on top-1 accuracy and computation speed on CIFAR-10 and CIFAR-100.

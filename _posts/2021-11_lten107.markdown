@@ -1,0 +1,9 @@
+---
+layout: post
+title: The Plowman's Tale in <em>The Canterbury Tales</em>
+date: Nov 2021
+course: UC San Diego LTEN 107
+paper: /pdfs/lten107.pdf
+categories: humanities
+---
+An exercise in creative and imaginative writing, this paper presents a poem that the Plowman in Geoffrey Chaucer's <em>The Canterbury Tales</em> could have sung if he were giving a speaking role. A possible theme, which this paper presents, is the Plowman's narration of the events of the Peasant's Revolt of 1381 and an attempt to "quite" Chaucer.

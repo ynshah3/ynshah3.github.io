@@ -1,0 +1,9 @@
+---
+layout: post
+title: Thematization and Same-Sex Desire in “Song of the Ugly Maiden”
+date: Nov 2022
+course: UC San Diego LTEN 127
+paper: /pdfs/lten127.pdf
+categories: humanities
+---
+An interpretation of Eliza Cook's poem "Song of the Ugly Maiden" is her yearning for a love for women. In this paper, I argue for this through analyzing thematization the occurs in the poem through rhyme scheme deviations, use of alliterations, word choices, and Cook having the Ugly Maiden sing her song as an interior monologue.

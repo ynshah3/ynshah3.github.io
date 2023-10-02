@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Software Engineer Intern"
+date: Jun 2022 - Sep 2022
+image: /images/paypal.png
+team: Network Tokenization
+categories: industry
+---
+Enabled network tokenization first for payment transaction processing for PayPal's merchant partners to improve security and optimize authorization rates by around 40% for some merchants. Utilized data monitoring tools for monitoring code changes. Added a Foreign Tax ID Prompt to the Token Requestor ID (TRID) Onboarding UI to enable foreign merchants to apply for network tokenization.

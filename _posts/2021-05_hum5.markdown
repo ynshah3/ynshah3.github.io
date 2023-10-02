@@ -1,0 +1,9 @@
+---
+layout: post
+title: Du Bois, Racial Equality, and Gender Equality
+date: May 2021
+course: UC San Diego HUM 5
+paper: /pdfs/hum5.pdf
+categories: humanities
+---
+In this argumentative essay, I view W. E. B. Du Bois' text <em>The Souls of Black Folk</em>, being an undertaking for racial equality for Black Americans, through the lens of Simone de Beauvoir and her text <em>The Second Sex</em>, which has become, arguably, a classic text for the advocation of gender equality for women.

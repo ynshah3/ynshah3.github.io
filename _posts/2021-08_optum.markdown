@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Technology Development Intern"
+date: Jun 2021 - Aug 2021
+image: /images/optum.png
+team: OptumRx
+categories: industry
+---
+Developed a client portal using React and TypeScript and made Axios calls to the server using React Redux to onboard clients and allow them to place requests for Optum’s API services. Performed interface and architecture design research before building the portal for seamless user experience. Influenced company executives by presenting the business benefits of my project at Shark Tank presentations.

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Software Engineer"
+date: Jul 2023 - Sep 2023
+image: /images/paypal.png
+team: Network Tokenization
+categories: industry
+---
+Queried ~8M cards for various merchants using PostgreSQL and submitted for bulk network token enrollment. Analyzed 3-D secure transactions for 118 merchants and (1) enabled them to be processed through network tokenization first in production, (2) modified the way 3-D secure transactions are processed for certain processors and card types in the codebase so that future transactions can be directly processed through NT First.
