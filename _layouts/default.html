@@ -49,7 +49,7 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
               <p>
-                I'm interested in biologically-plausible AI for vision and language, applications of AI in healthcare, and generative AI.
+                I'm broadly interested in biologically-plausible AI for vision and language, applications of AI in healthcare, and generative AI.
               </p>
             </td>
           </tr>
@@ -66,7 +66,7 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              {{post.authors}}
+              <em>{{post.authors}}</em>
 
               <br>
               {{ post.date | date: "%Y-%m" }}
@@ -123,15 +123,11 @@
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
-              <br>
               <em>{{post.company}}</em>
               <br>
               {{ post.period }}
 
               <br>
-              {% if post.team %}
-              <a href="{{post.team}}">team</a> /
-              {% endif %}
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
               {% endif %}
@@ -146,15 +142,6 @@
         <br>
         <br>
         <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Honors and Awards</h2>
-              <p>Across the years... 
-              </p>
-            </td>
-          </tr>
-        </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
@@ -223,7 +210,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'humanities' %}
+          {% if cat == 'humanities' %}
           <tr>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
@@ -244,7 +231,15 @@
           {% endfor %}
           {% endfor %}
         </table>
-
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Honors and Awards</h2>
+              <p>Across the years... 
+              </p>
+            </td>
+          </tr>
+        </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
@@ -254,7 +249,7 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <em>by {{post.conferrer}}</em>
+              <em>by {{post.conferer}}</em>
               <br>
               {{ post.date | date: "%Y-%m" }}
 

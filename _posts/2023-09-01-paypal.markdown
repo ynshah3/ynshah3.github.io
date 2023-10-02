@@ -4,7 +4,7 @@ title:  "Software Engineer"
 date: 2023-09-01 00:00:00 -0000
 period: 2023-07 to 2023-09
 image: /images/paypal.png
-team: Network Tokenization
+company: PayPal | Team Network Tokenization
 categories: industry
 ---
 Queried ~8M cards for various merchants using PostgreSQL and submitted for bulk network token enrollment. Analyzed 3-D secure transactions for 118 merchants and (1) enabled them to be processed through network tokenization first in production, (2) modified the way 3-D secure transactions are processed for certain processors and card types in the codebase so that future transactions can be directly processed through NT First.
