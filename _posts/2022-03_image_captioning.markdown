@@ -3,6 +3,8 @@ layout: post
 title: Image Captioning with Recurrent Neural Networks
 date: Mar 2023
 course: UC San Diego CSE 151B
+image: /images/image_captioning.png
+
 paper: /pdfs/image_captioning.pdf
 authors: Henry Lister*, Ryan Nishimoto*, Yash Shah* (* equal contribution)
 categories: other
