@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thematization and Same-Sex Desire in “Song of the Ugly Maiden”
-date: Nov 2022
+date: 2022-11-01 00:00:00 -0000
 course: UC San Diego LTEN 127
 paper: /pdfs/lten127.pdf
 categories: humanities

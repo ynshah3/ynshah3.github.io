@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Technology Development Intern"
-date: Jun 2021 - Aug 2021
+date: 2021-08-01 00:00:00 -0000
+period: 2021-06 to 2021-08
 image: /images/optum.png
 team: OptumRx
 categories: industry

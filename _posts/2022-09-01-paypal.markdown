@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Software Engineer Intern"
-date: Jun 2022 - Sep 2022
+date: 2022-09-01 00:00:00 -0000
+period: 2022-06 to 2022-09
 image: /images/paypal.png
 team: Network Tokenization
 categories: industry

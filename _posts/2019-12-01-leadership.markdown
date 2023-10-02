@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outstanding Leadership Award
-date: Dec 2019
+date: 2019-12-01 00:00:00 -0000
 conferer: Revelle Hall Association, UC San Diego
 categories: award
 ---

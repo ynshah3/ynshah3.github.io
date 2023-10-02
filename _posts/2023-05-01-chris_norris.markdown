@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christine Norris Award
-date: May 2023
+date: 2023-05-01 00:00:00 -0000
 conferer: Revelle College, UC San Diego
 categories: award
 ---

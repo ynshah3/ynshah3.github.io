@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revelle College Provost’s Honors Certificate
-date: Sep 2020, Oct 2021
+date: 2021-10-01 00:00:00 -0000
 conferer: Revelle College, UC San Diego
 categories: award
 ---

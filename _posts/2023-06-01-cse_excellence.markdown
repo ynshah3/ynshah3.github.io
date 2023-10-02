@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Science and Engineering Department Excellence Award
-date: Jun 2023
+date: 2023-06-01 00:00:00 -0000
 conferer: Jacobs School of Engineering Ring Ceremony, UC San Diego
 categories: award
 ---

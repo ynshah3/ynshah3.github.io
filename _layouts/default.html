@@ -69,7 +69,7 @@
               {{post.authors}}
 
               <br>
-              {{ post.date }}
+              {{ post.date | date: "%Y-%m" }}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
@@ -126,7 +126,7 @@
               <br>
               <em>{{post.company}}</em>
               <br>
-              {{ post.date }}
+              {{ post.period }}
 
               <br>
               {% if post.team %}
@@ -181,7 +181,7 @@
               <br>
               <em>{{post.course}}</em>
               <br>
-              {{ post.date }}
+              {{ post.date | date: "%Y-%m" }}
 
               <br>
               {% if post.website %}
@@ -230,7 +230,7 @@
               <br>
               <em>{{post.course}}</em>
               <br>
-              {{ post.date }}
+              {{ post.date | date: "%Y-%m" }}
 
               <br>
               {% if post.paper %}
@@ -256,7 +256,7 @@
               <br>
               <em>by {{post.conferrer}}</em>
               <br>
-              {{ post.date }}
+              {{ post.date | date: "%Y-%m" }}
 
               <br>
               <p></p>

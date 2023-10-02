@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Du Bois, Racial Equality, and Gender Equality
-date: May 2021
+date: 2021-05-01 00:00:00 -0000
 course: UC San Diego HUM 5
 paper: /pdfs/hum5.pdf
 categories: humanities

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Plowman's Tale in <em>The Canterbury Tales</em>
-date: Nov 2021
+date: 2021-11-01 00:00:00 -0000
 course: UC San Diego LTEN 107
 paper: /pdfs/lten107.pdf
 categories: humanities

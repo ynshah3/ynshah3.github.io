@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Image Captioning with Recurrent Neural Networks
-date: Mar 2023
+date: 2022-03-01 00:00:00 -0000
 course: UC San Diego CSE 151B
 image: /images/image_captioning.png
 
