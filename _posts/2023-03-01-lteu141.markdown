@@ -5,5 +5,6 @@ date: 2023-03-01 00:00:00 -0000
 course: UC San Diego LTEU 141
 paper: /pdfs/lteu141.pdf
 categories: humanities
+image: /images/lteu141.png
 ---
 In the stories of Colette and in Les Guérillères by Monique Wittig, we see different colors appear in different stories, bringing with them different symbolic connotations that may highlight themes within these stories that are not evident at first. Trying to interpret the visual imagery that colors bring might help us answer questions concerning why Colette and Wittig use them in the first place.

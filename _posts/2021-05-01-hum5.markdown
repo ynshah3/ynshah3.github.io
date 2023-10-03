@@ -5,5 +5,6 @@ date: 2021-05-01 00:00:00 -0000
 course: UC San Diego HUM 5
 paper: /pdfs/hum5.pdf
 categories: humanities
+image: /images/hum5.png
 ---
 In this argumentative essay, I view W. E. B. Du Bois' text <em>The Souls of Black Folk</em>, being an undertaking for racial equality for Black Americans, through the lens of Simone de Beauvoir and her text <em>The Second Sex</em>, which has become, arguably, a classic text for the advocation of gender equality for women.
