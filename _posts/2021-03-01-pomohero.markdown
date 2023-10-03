@@ -1,0 +1,11 @@
+---
+layout: post
+title: PomoHero
+date: 2021-03-01 00:00:00 -0000
+course: UC San Diego CSE 110
+image: /images/pomohero.png
+website: https://pomo-hero.web.app
+authors: Muhammad Z Khan*, Xavier Tan*, James Zhao*, Ivan Robles*, <strong>Yash Shah</strong>*, Haaris Waleh*, Mrinmoy Dutta* (*equal contribution)
+categories: other
+---
+A Pomodoro timer, based on the <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro technique</a> to help users better organize their schedules and get work done through time management.
