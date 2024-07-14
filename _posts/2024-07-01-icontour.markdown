@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Enhancing Accuracy, Time Spent, and Ubiquity in Critical Healthcare Delineation via Cross-Device Contouring"
+date: 2024-07-01 00:00:00 -0000
+venue: Proceedings of the 2024 ACM Designing Interactive Systems Conference
+image: /images/icontour.png
+paper: https://dl.acm.org/doi/abs/10.1145/3643834.3660718
+authors: Matin Yarmand, Chen Chen, Michael V Sherer, <strong>Yash N Shah</strong>, Peter Liu, Borui Wang, Larry Hernandez, James D Murphy, Nadir Weibel
+categories: research
+---
+Here we explore contouring, a critical workflow aimed at identifying and segmenting tumors, to identify key behaviors, and later design a novel cross-device prototype that enables contouring on everyday touch devices.
