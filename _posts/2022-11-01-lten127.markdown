@@ -7,4 +7,4 @@ paper: /pdfs/lten127.pdf
 categories: humanities
 image: /images/lten127.png
 ---
-An interpretation of Eliza Cook's poem "Song of the Ugly Maiden" is her yearning for a love for women. In this paper, I argue for this through analyzing thematization the occurs in the poem through rhyme scheme deviations, use of alliterations, word choices, and Cook having the Ugly Maiden sing her song as an interior monologue.
+An interpretation of Eliza Cook's poem "Song of the Ugly Maiden" is her yearning for a love for women. In this paper, I argue for this through analyzing thematization that occurs in the poem through rhyme scheme deviations, use of alliterations, word choices, and Cook having the Ugly Maiden sing her song as an interior monologue.

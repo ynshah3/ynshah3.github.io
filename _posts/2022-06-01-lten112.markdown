@@ -7,4 +7,4 @@ paper: /pdfs/lten112.pdf
 categories: humanities
 image: /images/lten112.png
 ---
-One of the questions that Shakespeare raises in his play The Merchant of Venice is the ability of women to have autonomy and exercise power. This autonomy and power, however, is confined to the domestic sphere between the husband and the wife. In the public sphere, women get to exercise power when they disguise themselves as men. Shakespeare, by portraying women in this manner, challenges the conventional social system of patriarchy.
+One of the questions that Shakespeare raises in his play <em>The Merchant of Venice</em> is the ability of women to have autonomy and exercise power. This autonomy and power, however, is confined to the domestic sphere between the husband and the wife. In the public sphere, women get to exercise power when they disguise themselves as men. Shakespeare, by portraying women in this manner, challenges the conventional social system of patriarchy.
