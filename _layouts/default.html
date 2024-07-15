@@ -261,7 +261,7 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2 style="background: rgb(237, 203, 152)">Honors and Awards</h2>
-              <p>Across the years... 
+              <p>Over the years... 
               </p>
             </td>
           </tr>
@@ -281,6 +281,9 @@
               <em>by {{post.conferer}}</em>
               <br>
               {{ post.date | date: "%Y-%m" }}
+              {% if post.press %}
+              <a href="{{post.press}}">press</a> /
+              {% endif %}
 
               <br>
               <p></p>
