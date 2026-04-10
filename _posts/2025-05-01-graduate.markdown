@@ -1,0 +1,14 @@
+---
+layout: post
+title: Exceptional Graduate Student Award
+date: 2025-05-01 00:00:00 -0000
+conferer: Dean’s Graduate Student Advisory Council
+categories: award
+image: 
+---
+This award recognizes outstanding graduate students who have demonstrated excellence in academic
+achievement, leadership, and service within the Stanford community. This award honors
+students who have made meaningful contributions to fostering an inclusive and supportive
+environment and creating opportunities for others. Recipients may be recognized for their
+impact as role models and leaders through academic excellence, mentorship, and community
+engagement—whether within Stanford or through outreach beyond.
